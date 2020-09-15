@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "local-echo": "janstuemmel/local-echo#fix-xtermjs4",
+    "local-echo": "sogaiu/local-echo-xterm-sci",
     "xterm": "^4.7.0"
   }
 }
